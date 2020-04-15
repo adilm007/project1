@@ -1,0 +1,2 @@
+This is my first file. I am trying to learn git.
+In future i will be doing more addition to this file
